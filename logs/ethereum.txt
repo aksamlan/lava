@@ -620,3 +620,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x50b31e37c"}
 {"jsonrpc":"2.0","id":1,"result":"0x51e18c0ea"}
 {"jsonrpc":"2.0","id":1,"result":"0x5b00fab7a"}
+{"error":"{\"Error_GUID\":\"8629832736356908767\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:8629832736356908767}\"}"}
