@@ -929,3 +929,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x54c60f17b"}
 {"jsonrpc":"2.0","id":1,"result":"0x562a778e0"}
 {"jsonrpc":"2.0","id":1,"result":"0x0"}
+{"error":"{\"Error_GUID\":\"1588076183941285540\",\"Error\":\"Failed all retries {GUID:1588076183941285540,error:No pairings available.,chain_id:ETH1}\"}"}
