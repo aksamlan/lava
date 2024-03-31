@@ -928,3 +928,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x5ff71512f"}
 {"jsonrpc":"2.0","id":1,"result":"0x54c60f17b"}
 {"jsonrpc":"2.0","id":1,"result":"0x562a778e0"}
+{"jsonrpc":"2.0","id":1,"result":"0x0"}
