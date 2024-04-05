@@ -3,7 +3,7 @@ name: Ethereum, NEAR, StarkNet, and Axelar Auto Commit
 on:
   push:
     branches:
-      - master
+      - main
 
   schedule:
     - cron: '*/20 * * * *' # Runs every 20 minutes
